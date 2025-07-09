@@ -4,10 +4,7 @@ Welcome to **Image Captioning using BLIP** — an AI project that turns images i
 
 ---
 
-## 🌄 IMAGE CAPTION GENERATOR - Task 3 
-
-**👨‍💻 Personal Project by:** *Sandeep Prajapati*  
-**🏢 Company:** *CodSoft*
+## 🌄 IMAGE CAPTION GENERATOR - Task 3  
 **🔬 Specialization:** *Artificial Intelligence*
 
 ---
